@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\bin\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\bin\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\bin\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\bin\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\bin\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\bin\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_POO_Listas_de_Objetos\obj\Debug\netcoreapp3.1\_POO_Listas_de_Objetos.genruntimeconfig.cache
